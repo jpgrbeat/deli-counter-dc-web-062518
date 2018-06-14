@@ -29,4 +29,5 @@ def now_serving(array)
   else
     person = array.shift
     puts "Now serving #{person}"
-  
+  end
+end
