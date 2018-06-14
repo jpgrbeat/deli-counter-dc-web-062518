@@ -28,6 +28,6 @@ def now_serving(array)
     puts "There is no one in line."
   else
     person = array.shift
-    puts "Currently serving #{person}"
+    puts "Currently serving #{person}."
   end
 end
